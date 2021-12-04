@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+
+}
+
+header {
+    background-color: aquamarine;
+    text-align: center;  
+    background: tomato;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width:fit-content;
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+
+.Formulario {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+fieldset {
+    text-align: center;
+    width: 548px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.Nomesobrenome {
+    
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.Estado {  
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+ul {
+    list-style-type: none;
+}
